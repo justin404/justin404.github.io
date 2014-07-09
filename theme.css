@@ -521,10 +521,10 @@ h3 {
 #resource-bar
 {
     /* border styling */
-    border: 1px solid;
+    border: 2px solid;
     border-radius: 2px;
-    -moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
 
     /* internal styling - padding etc. */
 
